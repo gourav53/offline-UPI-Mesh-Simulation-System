@@ -1,0 +1,21 @@
+# Offline UPI Mesh Simulation System
+
+## 🚀 Overview
+This project simulates offline transaction propagation using mesh networking and delayed backend processing.
+
+## ⚙️ Tech Stack
+- Java (Spring Boot)
+- Maven
+- H2 Database
+
+## ▶️ How it works
+1. Inject transaction
+2. Gossip propagation
+3. Bridge to backend
+
+## 🌐 Run
+mvnw.cmd spring-boot:run  
+http://localhost:8081
+
+## ⚠️ Note
+This is a simulation, not a real payment system.
