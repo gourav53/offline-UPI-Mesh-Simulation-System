@@ -386,6 +386,18 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 ---
 
+## 📸 Demo Screenshots
+
+### 🔹 UI Dashboard
+![Demo 1](demo1.png)
+
+### 🔹 Transaction Simulation
+![Demo 2](demo2.png)
+
+### 🔹 Mesh Flow
+![Demo 3](demo3.png)
+
+
 ## Troubleshooting
 
 **`java: command not found`** — Install JDK 17+. On Windows, `winget install EclipseAdoptium.Temurin.17.JDK` or download from adoptium.net.
