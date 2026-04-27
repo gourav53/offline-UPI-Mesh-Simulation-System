@@ -19,3 +19,15 @@ http://localhost:8081
 
 ## ⚠️ Note
 This is a simulation, not a real payment system.
+
+
+## 📸 Demo Screenshots
+
+### 🔹 UI Dashboard
+![Demo 1](demo1.png)
+
+### 🔹 Transaction Simulation
+![Demo 2](demo2.png)
+
+### 🔹 Mesh Flow
+![Demo 3](demo3.png)
